@@ -4,7 +4,7 @@ OS X autologin enabler utility based on script from [osx-vm-templates](https://g
 # How to install ?
 
 ```shell
-brew tap xfreebird/utils
+brew tap veertuinc/kcpassword
 brew install kcpassword
 ```
 
