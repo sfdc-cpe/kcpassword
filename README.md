@@ -4,8 +4,9 @@ OS X autologin enabler utility based on script from [osx-vm-templates](https://g
 # How to install ?
 
 ```shell
-brew tap veertuinc/kcpassword
-brew install kcpassword
+git clone https://github.com/veertuinc/kcpassword.git
+cd kcpassword
+./enable_autologin "{USER}" "{PASSWORD}"
 ```
 
 # Usage
